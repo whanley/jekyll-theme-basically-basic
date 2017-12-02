@@ -21,11 +21,14 @@ baseurl: # the optional subpath of your site, e.g. "/blog"
 url: "http://shipshape.help/"
 author:
   name: "Wanda Drury"
+  bio              : "M.A. (English)"
+  location         : "Saskatoon, Saskatchewan, Canada"
+  email            : "wldrury@gmail.com"
   twitter:
   picture:
 twitter_username:
 github_username:
-logo: "/assets/images/business-card.jpg"
+logo: "/assets/images/ship.png"
 
 # Build settings
 markdown: kramdown
