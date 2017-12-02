@@ -16,7 +16,7 @@
 lang: en-US
 title: Shipshape
 email: "wldrury@gmail.com"
-description: "Shipshape is a writing, editing, and proofreading service in Saskatoon, Saskatchewan, Canada."
+description: "Writing, Editing, Proofreading" #"Shipshape is a writing, editing, and proofreading service in Saskatoon, Saskatchewan, Canada."
 baseurl: # the optional subpath of your site, e.g. "/blog"
 url: "http://shipshape.help/"
 author:
