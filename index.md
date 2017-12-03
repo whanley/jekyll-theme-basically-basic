@@ -1,7 +1,8 @@
 ---
-layout: home
+title: "Shipshape"
+layout: about
 ---
 
-Writing, Editing, Proofreading
+## Writing, Editing, Proofreading
 
-Saskatoon, Saskatchewan
+Saskatoon, Saskatchewan, Canada.
